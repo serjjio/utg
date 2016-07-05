@@ -1,0 +1,59 @@
+192.168.4.10    	Administrator
+			cg43998Qm2
+
+Starcom Online		d.zaxarow
+			bAmobteL1
+
+
+MySQL(192.168.4.10):	root (localhost/192.168.0.41)
+			2qkNEcSEh5
+
+			dispatch (SELECT, INSERT, DELETE, UPDATE)
+			pHviA2mbEL
+
+			dispatch1(192.168.16.38)   
+			1ujd1bLWAp
+
+			dispatch2(192.168.16.35)
+			yC3ZAf8GWa
+
+			dispatch3(192.168.16.31)
+			af2xjAE3Cg
+
+			dispatch4(192.168.16.46)
+			aD2xEAq1Cg
+
+			service_desk(192.168.16.40)
+			j89g74zDsg
+
+			dmytro.kryvoshei(192.168.16.41)
+
+			development(192.168.16.39)
+			pHs0AmDG6G
+
+			starcom_local(localhost)
+			4WHVM1sNcP
+			
+			crystal_reports
+			5TkQa6QVLZ
+
+			plusch(192.168.4.93)
+			dj45HfYO3b
+
+			frodymova(192.168.16.30)
+			dfR5n9KWm2
+
+			pavel.bondarchuk(192.168.4.91)
+
+
+			vitaliy.golik(192.168.4.97)
+
+			sergey.soroka(192.168.4.98)
+
+			evgeniy.litvin(192.168.16.45)
+
+
+
+
+Таможня(194.44.12.41)   Администратор
+			Py56-0312
